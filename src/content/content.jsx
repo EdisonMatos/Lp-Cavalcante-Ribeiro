@@ -417,7 +417,7 @@ const content = {
           <br />
           Acreditamos que um escritório de advocacia pode — e deve — ser
           acessível, acolhedor e altamente competente. Essa é a essência do
-          Cavalcante, Ribeiro & Silva.
+          Cavalcante, Ribeiro & Silva. 
           <br />
           <br />
         </p>
