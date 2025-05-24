@@ -378,7 +378,7 @@ const content = {
       paragraph: (
         <div>
           O escritório Cavalcante, Ribeiro & Silva surgiu a partir de um
-          propósito claro: oferecer apoio jurídico a quem mais precisa, mas
+          propósito claro: oferecer apoio jurídico a quem mais precisa, porém
           menos tem acesso. Milhares de brasileiros enfrentam barreiras enormes
           para garantir seus direitos — seja pela distância, pela falta de
           informação ou por limitações físicas e financeiras.
@@ -388,11 +388,10 @@ const content = {
       modal: (
         <p>
           O escritório Cavalcante, Ribeiro & Silva surgiu a partir de um
-          propósito claro: oferecer apoio jurídico a quem mais precisa, mas
+          propósito claro: oferecer apoio jurídico a quem mais precisa, porém
           menos tem acesso. Milhares de brasileiros enfrentam barreiras enormes
           para garantir seus direitos — seja pela distância, pela falta de
           informação ou por limitações físicas e financeiras.
-          <br />
           <br />
           Percebendo essa realidade, decidimos atuar de forma diferente.
           Especializados em Direito Previdenciário, voltamos nosso trabalho
