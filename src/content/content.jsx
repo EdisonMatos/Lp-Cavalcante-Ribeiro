@@ -193,7 +193,8 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Solicitação do BPC para pessoa com deficiência",
-        subtitle: "Garantimos o acesso ao BPC para pessoas com deficiência",
+        subtitle:
+          "Direito previsto na LOAS, assegura um salário mínimo a pessoas com deficiência em situação de vulnerabilidade.",
         description: (
           <div>
             A_Definir
