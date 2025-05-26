@@ -193,7 +193,8 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Solicitação do BPC para pessoa com deficiência",
-        subtitle: "Garantimos o acesso ao BPC para pessoas com deficiência",
+        subtitle:
+          "Direito previsto na LOAS, assegura um salário mínimo a pessoas com deficiência em situação de vulnerabilidade.",
         description: (
           <div>
             A_Definir
@@ -377,7 +378,7 @@ const content = {
       paragraph: (
         <div>
           O escritório Cavalcante, Ribeiro & Silva surgiu a partir de um
-          propósito claro: oferecer apoio jurídico a quem mais precisa, mas
+          propósito claro: oferecer apoio jurídico a quem mais precisa, porém
           menos tem acesso. Milhares de brasileiros enfrentam barreiras enormes
           para garantir seus direitos — seja pela distância, pela falta de
           informação ou por limitações físicas e financeiras.
@@ -387,11 +388,10 @@ const content = {
       modal: (
         <p>
           O escritório Cavalcante, Ribeiro & Silva surgiu a partir de um
-          propósito claro: oferecer apoio jurídico a quem mais precisa, mas
+          propósito claro: oferecer apoio jurídico a quem mais precisa, porém
           menos tem acesso. Milhares de brasileiros enfrentam barreiras enormes
           para garantir seus direitos — seja pela distância, pela falta de
           informação ou por limitações físicas e financeiras.
-          <br />
           <br />
           Percebendo essa realidade, decidimos atuar de forma diferente.
           Especializados em Direito Previdenciário, voltamos nosso trabalho
@@ -417,7 +417,7 @@ const content = {
           <br />
           Acreditamos que um escritório de advocacia pode — e deve — ser
           acessível, acolhedor e altamente competente. Essa é a essência do
-          Cavalcante, Ribeiro & Silva.
+          Cavalcante, Ribeiro & Silva. 
           <br />
           <br />
         </p>
