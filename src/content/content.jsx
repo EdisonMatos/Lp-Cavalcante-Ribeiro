@@ -417,7 +417,7 @@ const content = {
           <br />
           Acreditamos que um escritório de advocacia pode — e deve — ser
           acessível, acolhedor e altamente competente. Essa é a essência do
-          Cavalcante, Ribeiro & Silva. 
+          Cavalcante, Ribeiro & Silva.
           <br />
           <br />
         </p>
@@ -446,9 +446,22 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
-      subtitle:
-        "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
+        "Tem deficiência ou impedimento de longo prazo? Você pode ter direito ao BPC/LOAS!",
+      subtitle: (
+        <p>
+          O Benefício de Prestação Continuada (BPC) garante um salário mínimo
+          mensal, sem necessidade de contribuição ao INSS, para pessoas com
+          deficiência que comprovem:
+          <br />
+          <br />✔ Deficiência ou impedimento de longo prazo (físico, mental,
+          intelectual ou sensorial);
+          <br />✔ Baixa renda familiar — a renda por pessoa da família deve ser
+          inferior a 1/4 do salário mínimo (existem exceções que podem ser
+          analisadas);
+          <br />✔ Incapacidade para a vida independente e para o trabalho, de
+          acordo com avaliação social e médica do INSS.
+        </p>
+      ),
       ctaButtonText: "Entre em contato pelo WhatsApp",
     },
     steps: {
