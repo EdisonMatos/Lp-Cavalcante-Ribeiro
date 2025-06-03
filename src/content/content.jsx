@@ -446,14 +446,10 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Tem deficiência ou impedimento de longo prazo? Você pode ter direito ao BPC/LOAS!",
+        "O Benefício de Prestação Continuada (BPC) garante um salário mínimo mensal, sem necessidade de contribuição ao INSS, para pessoas com deficiência que comprovem:",
       subtitle: (
         <p>
-          O Benefício de Prestação Continuada (BPC) garante um salário mínimo
-          mensal, sem necessidade de contribuição ao INSS, para pessoas com
-          deficiência que comprovem:
-          <br />
-          <br />✔ Deficiência ou impedimento de longo prazo (físico, mental,
+          ✔ Deficiência ou impedimento de longo prazo (físico, mental,
           intelectual ou sensorial);
           <br />✔ Baixa renda familiar — a renda por pessoa da família deve ser
           inferior a 1/4 do salário mínimo (existem exceções que podem ser
