@@ -55,24 +55,15 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                 </div>
               </MotionDivDownToUp>
 
-              {/* Observação */}
               <MotionDivDownToUp>
-                <div className="flex justify-center desktop1:justify-start mb-12">
-                  <div className="flex flex-col items-center desktop1:flex-row text-primary">
-                    {content.texts.hero.obsHero.icon}
-
-                    <p
-                      className={`ml-[10px] text-center mt-[12px] desktop1:mt-0 ${obsTextColor}`}
-                    >
-                      {content.texts.hero.obsHero.text}
-                    </p>
-                  </div>
-                </div>
+                <p className="flex text-center desktop1:text-start text-primary">
+                  {content.texts.hero.frase}
+                </p>
               </MotionDivDownToUp>
 
               {/* Botão */}
               <div className="w-full phone2:w-full tablet2:w-auto">
-                <div className="flex justify-center w-full desktop1:justify-start mb-[32px]">
+                <div className="flex justify-center w-full desktop1:justify-start my-[32px]">
                   <Button
                     aria-label={content.texts.hero.ctaButtonAriaLabel}
                     label={content.texts.hero.ctaButtonText}
@@ -117,6 +108,21 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                   </MotionDivDownToUp>
                 )}
               </div>
+
+              {/* Observação */}
+              <MotionDivDownToUp>
+                <div className="flex justify-center desktop1:justify-start mb-12">
+                  <div className="flex flex-col items-center desktop1:flex-row text-primary">
+                    {content.texts.hero.obsHero.icon}
+
+                    <p
+                      className={`ml-[10px] text-center mt-[12px] desktop1:mt-0 ${obsTextColor}`}
+                    >
+                      {content.texts.hero.obsHero.text}
+                    </p>
+                  </div>
+                </div>
+              </MotionDivDownToUp>
             </div>
 
             {/* Imagem principal */}

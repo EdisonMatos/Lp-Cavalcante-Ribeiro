@@ -133,6 +133,8 @@ const content = {
       ),
       subtitle:
         "Milhares têm o BPC negado injustamente. Nós ajudamos você a garantir o que é seu por direito.",
+      frase:
+        "Tem deficiência ou impedimento de longo prazo? Você pode ter direito ao BPC/LOAS!",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
@@ -192,9 +194,9 @@ const content = {
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Solicitação do BPC para pessoa com deficiência",
+        title: "BPC para pessoa com deficiência",
         subtitle:
-          "Direito previsto na LOAS, assegura um salário mínimo a pessoas com deficiência em situação de vulnerabilidade.",
+          "Salário mínimo à pessoas com deficiência em situação de vulnerabilidade.",
         description: (
           <div>
             A_Definir
@@ -230,7 +232,7 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Recursos e revisões de benefício negado",
-        subtitle: "Suporte para recorrer de negativas do INSS ao BPC",
+        subtitle: "Suporte para recorrer de negativas do INSS ao BPC.",
         description: (
           <div>
             A_Definir
@@ -264,7 +266,7 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Solicitação do BPC para idosos",
-        subtitle: "Obtenção do BPC para idosos 65+ com baixa renda",
+        subtitle: "Obtenção do BPC para idosos 65+ com baixa renda.",
         description: (
           <div>
             A_Definir <br />
@@ -305,7 +307,7 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Atualização cadastral e manutenção do BPC",
-        subtitle: "Atualização do CadÚnico e manutenção do BPC ativo",
+        subtitle: "Atualização do CadÚnico e manutenção do BPC ativo.",
         description: (
           <div>
             A_Definir
