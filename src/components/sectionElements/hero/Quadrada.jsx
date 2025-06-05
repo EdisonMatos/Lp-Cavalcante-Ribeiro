@@ -55,11 +55,11 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
                 </div>
               </MotionDivDownToUp>
 
-              <MotionDivDownToUp>
+              {/* <MotionDivDownToUp>
                 <p className="flex text-center desktop1:text-start text-primary">
                   {content.texts.hero.frase}
                 </p>
-              </MotionDivDownToUp>
+              </MotionDivDownToUp> */}
 
               {/* Botão */}
               <div className="w-full phone2:w-full tablet2:w-auto">

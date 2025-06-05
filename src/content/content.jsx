@@ -126,13 +126,11 @@ const content = {
       miniTag: "ESCRITÓRIO PREVIDENCIÁRIO EM MACEIÓ - AL",
       title: (
         <h1 className="mb-[16px]">
-          E se o INSS estiver
-          <span className="text-primary"> errado </span>
-          com você?
+          Tem deficiência ou impedimento de
+          <span className="text-primary"> longo prazo? </span>
         </h1>
       ),
-      subtitle:
-        "Milhares têm o BPC negado injustamente. Nós ajudamos você a garantir o que é seu por direito.",
+      subtitle: "Você pode ter direito ao BPC/LOAS!",
       frase:
         "Tem deficiência ou impedimento de longo prazo? Você pode ter direito ao BPC/LOAS!",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
