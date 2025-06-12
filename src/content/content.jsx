@@ -126,11 +126,28 @@ const content = {
       miniTag: "ESCRITÓRIO PREVIDENCIÁRIO EM MACEIÓ - AL",
       title: (
         <h1 className="mb-[16px]">
-          Tem deficiência ou impedimento de
-          <span className="text-primary"> longo prazo? </span>
+          Tem <span className="text-blue-300">deficiência ou impedimento</span>{" "}
+          de longo prazo? <br /> Você pode ter direito ao{" "}
+          <span className="text-blue-300">BPC/LOAS</span>!
         </h1>
       ),
-      subtitle: "Você pode ter direito ao BPC/LOAS!",
+      subtitle: (
+        <ul className="opacity-90">
+          <li>
+            ✔ Deficiência ou impedimento de longo prazo (físico, mental,
+            intelectual ou sensorial);
+          </li>
+          <li>
+            ✔ Baixa renda familiar — a renda por pessoa da família deve ser
+            inferior a 1/4 do salário mínimo (existem exceções que podem ser
+            analisadas);
+          </li>
+          <li>
+            ✔ Incapacidade para a vida independente e para o trabalho, de acordo
+            com avaliação social e médica do INSS.
+          </li>
+        </ul>
+      ),
       frase:
         "Tem deficiência ou impedimento de longo prazo? Você pode ter direito ao BPC/LOAS!",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
