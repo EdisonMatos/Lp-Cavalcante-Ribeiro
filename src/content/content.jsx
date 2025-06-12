@@ -462,17 +462,11 @@ const content = {
     cta: {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
-      title:
-        "O Benefício de Prestação Continuada (BPC) garante um salário mínimo mensal, sem necessidade de contribuição ao INSS, para pessoas com deficiência que comprovem:",
+      title: "Quer saber se você tem direito ao BPC/LOAS?",
       subtitle: (
         <p>
-          ✔ Deficiência ou impedimento de longo prazo (físico, mental,
-          intelectual ou sensorial);
-          <br />✔ Baixa renda familiar — a renda por pessoa da família deve ser
-          inferior a 1/4 do salário mínimo (existem exceções que podem ser
-          analisadas);
-          <br />✔ Incapacidade para a vida independente e para o trabalho, de
-          acordo com avaliação social e médica do INSS.
+          Fale com nossos especialistas e tire todas as suas dúvidas. Estamos
+          prontos para ajudar você a garantir seus direitos!
         </p>
       ),
       ctaButtonText: "Entre em contato pelo WhatsApp",
